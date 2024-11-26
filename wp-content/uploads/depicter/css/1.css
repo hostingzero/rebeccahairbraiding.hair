@@ -1,0 +1,45 @@
+
+.depicter-revert .depicter-1-element-14{
+	border-width:2px;
+	border-style:solid;
+	border-color:#AAAAAA;
+	border-radius:50% 50% 50% 50%;
+}
+.depicter-1-element-14 .depicter-symbol-container{
+	fill:#000;
+}
+.depicter-1-element-15 .depicter-bullet-item{
+	background-color:rgba(0,0,0,0.5);
+	border-radius:5px 5px 5px 5px ;
+	width:9px;
+	height:9px;
+}
+.depicter-1-element-15 .depicter-bullet-item.depicter-bullet-active{
+	background-color:rgba(0,0,0,1);
+}
+.depicter-1-element-15 .depicter-bullets-wrapper{
+	gap:5px;
+	flex-direction:row;
+}
+.depicter-revert .depicter-1-element-16{
+	border-width:2px;
+	border-style:solid;
+	border-color:#AAAAAA;
+	border-radius:50% 50% 50% 50%;
+}
+.depicter-1-element-16 .depicter-symbol-container{
+	fill:#000;
+}
+.depicter-revert .depicter-1-section-1 .depicter-section-background{
+	background-color:#FFF;
+}
+.depicter-revert .depicter-1-section-5 .depicter-section-background{
+	background-color:#FFF;
+}
+.depicter-revert .depicter-1-section-3 .depicter-section-background{
+	background-color:#FFF;
+}
+.depicter-revert .depicter-1-section-10 .depicter-section-background{
+	background-color:#FFF;
+}
+
